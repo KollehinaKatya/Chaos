@@ -1,0 +1,5 @@
+
+name-name - предмет
+lan-language- мова, якою введеться конспект
+form- form - oформлення
+size-size -шрифт
