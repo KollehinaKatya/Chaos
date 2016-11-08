@@ -3,3 +3,8 @@ name-name - предмет
 lan-language- мова, якою введеться конспект
 form- form - oформлення
 size-size -шрифт
+
+name - name - ім'я абітурієнта
+info - pasport_info - паспортні дані
+test - test - робота з завданням
+teacher - teacher - спостерігаючий вчитель
