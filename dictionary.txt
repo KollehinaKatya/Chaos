@@ -3,3 +3,9 @@ name-name - предмет
 lan-language- мова, якою введеться конспект
 form- form - oформлення
 size-size -шрифт
+
+
+Abiturient - abit - абитуриент, которій хочет поступить в ВУЗ
+University - univer - ВУЗ, в которій хочет попасть абитуриент
+Abiturient rate - rate - рейтинг абитуриента
+Exam - exam - ЗНО, вступительніе екзамен
